@@ -1,0 +1,110 @@
+=== Started 2021-12-12T17-37-21-936 ===
+[INFO ][17:37:21] [1m[32mMultiOgar-Edited 1.3.5[37m - An open source multi-protocol ogar server[0m
+[ERROR][17:37:21] Unknown gameserver.ini value: serverWelcome3
+[INFO ][17:37:21] 1 IP ban records loaded.
+[WARN ][17:37:21] User account "Local Moderator" disabled
+[WARN ][17:37:21] User account "Local User" disabled
+[INFO ][17:37:21] 1 user records loaded.
+[INFO ][17:37:21] 25 bad words loaded
+[WARN ][17:37:21] TLS: not supported (SSL certificate not found!)
+[INFO ][17:37:21] WebSocket: ws
+[INFO ][17:37:21] Started stats server on port 89
+[INFO ][17:37:22] Listening on port 7252
+[INFO ][17:37:22] Current game mode is Test gamemode!
+[INFO ][17:37:22] Added 100 player bots
+[NONE ][17:37:23]  Player has joined the server!
+[NONE ][17:37:23] CONNECTED    192.168.183.115:57153, origin: "http://127.0.0.1"
+[NONE ][17:37:24] >hlep
+[WARN ][17:37:24] Invalid Command!
+[NONE ][17:37:26] >help
+[NONE ][17:37:26] ======================== HELP ======================
+[NONE ][17:37:26] addbot [number]              : adds bots to the server
+[NONE ][17:37:26] kickbot [number]             : kick a number of bots
+[NONE ][17:37:26] ban [PlayerID | IP]          : bans a(n) (player's) IP
+[NONE ][17:37:26] banlist                      : get list of banned IPs.
+[NONE ][17:37:26] board [string] [string] ...  : set scoreboard text
+[NONE ][17:37:26] change [setting] [value]     : change specified settings
+[NONE ][17:37:26] clear                        : clear console output
+[NONE ][17:37:26] color [PlayerID] [R] [G] [B] : set cell(s) color by client ID
+[NONE ][17:37:26] exit                         : stop the server
+[NONE ][17:37:26] kick [PlayerID]              : kick player or bot by client ID
+[NONE ][17:37:26] kickall                      : kick all players and bots
+[NONE ][17:37:26] hello                        : Say Hello!
+[NONE ][17:37:26] mute [PlayerID]              : mute player (block chat messages from him)
+[NONE ][17:37:26] unmute [PlayerID]            : unmute player (allow chat messages from him)
+[NONE ][17:37:26] kill [PlayerID]              : kill cell(s) by client ID
+[NONE ][17:37:26] killall                      : kill everyone
+[NONE ][17:37:26] mass [PlayerID] [mass]       : set cell(s) mass by client ID
+[NONE ][17:37:26] merge [PlayerID]             : merge all client's cells once
+[NONE ][17:37:26] name [PlayerID] [name]       : change cell(s) name by client ID
+[NONE ][17:37:26] playerlist                   : get list of players and bots
+[NONE ][17:37:26] pause                        : pause game , freeze all cells
+[NONE ][17:37:26] reload                       : reload config
+[NONE ][17:37:26] status                       : get server status
+[NONE ][17:37:26] unban [IP]                   : unban an IP
+[NONE ][17:37:26] minion [PlayerID] [#] [name] : adds suicide minions to the server
+[NONE ][17:37:26] spawnmass [PlayerID] [mass]  : sets players spawn mass
+[NONE ][17:37:26] freeze [PlayerID]            : freezes a player
+[NONE ][17:37:26] speed [PlayerID]             : sets a players base speed
+[NONE ][17:37:26] rec [PlayerID]               : puts a player in rec mode
+[NONE ][17:37:26] st                           : alias for status
+[NONE ][17:37:26] pl                           : alias for playerlist
+[NONE ][17:37:26] m                            : alias for mass
+[NONE ][17:37:26] sm                           : alias for spawnmass
+[NONE ][17:37:26] ka                           : alias for killall
+[NONE ][17:37:26] k                            : alias for kill
+[NONE ][17:37:26] mg                           : alias for merge
+[NONE ][17:37:26] s                            : alias for speed
+[NONE ][17:37:26] ====================================================
+[NONE ][17:40:10] DISCONNECTED 192.168.183.115:57153, code: 1006, reason: "", name: ""
+[NONE ][17:40:11]  Player has joined the server!
+[NONE ][17:40:11] CONNECTED    192.168.183.115:57265, origin: "http://127.0.0.1"
+[NONE ][17:40:55] >help
+[NONE ][17:40:55] ======================== HELP ======================
+[NONE ][17:40:55] addbot [number]              : adds bots to the server
+[NONE ][17:40:55] kickbot [number]             : kick a number of bots
+[NONE ][17:40:55] ban [PlayerID | IP]          : bans a(n) (player's) IP
+[NONE ][17:40:55] banlist                      : get list of banned IPs.
+[NONE ][17:40:55] board [string] [string] ...  : set scoreboard text
+[NONE ][17:40:55] change [setting] [value]     : change specified settings
+[NONE ][17:40:55] clear                        : clear console output
+[NONE ][17:40:55] color [PlayerID] [R] [G] [B] : set cell(s) color by client ID
+[NONE ][17:40:55] exit                         : stop the server
+[NONE ][17:40:55] kick [PlayerID]              : kick player or bot by client ID
+[NONE ][17:40:55] kickall                      : kick all players and bots
+[NONE ][17:40:55] hello                        : Say Hello!
+[NONE ][17:40:55] mute [PlayerID]              : mute player (block chat messages from him)
+[NONE ][17:40:55] unmute [PlayerID]            : unmute player (allow chat messages from him)
+[NONE ][17:40:55] kill [PlayerID]              : kill cell(s) by client ID
+[NONE ][17:40:55] killall                      : kill everyone
+[NONE ][17:40:55] mass [PlayerID] [mass]       : set cell(s) mass by client ID
+[NONE ][17:40:55] merge [PlayerID]             : merge all client's cells once
+[NONE ][17:40:55] name [PlayerID] [name]       : change cell(s) name by client ID
+[NONE ][17:40:55] playerlist                   : get list of players and bots
+[NONE ][17:40:55] pause                        : pause game , freeze all cells
+[NONE ][17:40:55] reload                       : reload config
+[NONE ][17:40:55] status                       : get server status
+[NONE ][17:40:55] unban [IP]                   : unban an IP
+[NONE ][17:40:55] minion [PlayerID] [#] [name] : adds suicide minions to the server
+[NONE ][17:40:55] spawnmass [PlayerID] [mass]  : sets players spawn mass
+[NONE ][17:40:55] freeze [PlayerID]            : freezes a player
+[NONE ][17:40:55] speed [PlayerID]             : sets a players base speed
+[NONE ][17:40:55] rec [PlayerID]               : puts a player in rec mode
+[NONE ][17:40:55] st                           : alias for status
+[NONE ][17:40:55] pl                           : alias for playerlist
+[NONE ][17:40:55] m                            : alias for mass
+[NONE ][17:40:55] sm                           : alias for spawnmass
+[NONE ][17:40:55] ka                           : alias for killall
+[NONE ][17:40:55] k                            : alias for kill
+[NONE ][17:40:55] mg                           : alias for merge
+[NONE ][17:40:55] s                            : alias for speed
+[NONE ][17:40:55] ====================================================
+[NONE ][17:41:40] >hello
+[NONE ][17:41:40] hello
+[NONE ][17:43:50] >kickbot all
+[WARN ][17:43:50] Invalid argument!
+[NONE ][17:43:53] >kickbot 500
+[WARN ][17:43:53] Only 100 bots were kicked
+[NONE ][17:45:07] DISCONNECTED 192.168.183.115:57265, code: 1006, reason: "undefined", name: "alexsteve647"
+[NONE ][17:45:07]  Player has joined the server!
+[NONE ][17:45:07] CONNECTED    192.168.183.115:57299, origin: "http://127.0.0.1"
